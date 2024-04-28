@@ -106,7 +106,9 @@ body{
 .banner-content h2{
     font-size: 3rem;
     color: white;
-    text-shadow: 0 0 9px #00000054;
+    padding: 14px;
+    background: #00000070;
+    backdrop-filter: blur(8px);
 }
 
 .section-heading{
