@@ -1,5 +1,6 @@
 $(document).ready(function(){
 
+    // Home page gallery Preview Function 
     const galleryImages = document.querySelectorAll('.gallery-image-box img');
     const previewContainer = document.getElementById('image-preview');
     const previewImage = previewContainer.querySelector('img');
